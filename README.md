@@ -13,7 +13,7 @@ The project applies **Data Cleaning, Exploratory Data Analysis (EDA), Statistica
 | Field | Details |
 |---|---|
 | **Student Name** | SUJITHA LAKSHMI S |
-| **Roll Number** | 2024PECML183 |
+| **AICTE Student ID** | STU6820e8ae215fd1746987182 |
 | **College** | PANIMALAR ENGINEERING COLLEGE |
 | **Department** | Artificial Intelligence and Machine Learning (AIML) |
 | **Project Title** | Retail Sales Analytics Using Python |
